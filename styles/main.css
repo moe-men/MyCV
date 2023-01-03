@@ -1,0 +1,29 @@
+/*background: linear-gradient(180deg, #f1faee, #caecd7, #a8dadc)*/
+
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
+
+
+* {font-family: 'Readex Pro';}
+
+
+a {
+    text-decoration: none;
+    color: #ee6c4d !important;
+    font-weight: 500;
+}
+
+a:hover {
+    color: #ffffff!important;
+    text-decoration: none;
+}
+
+ul {list-style-type: none;}
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 5%;
+}
+
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
