@@ -11,7 +11,7 @@ profile_picture = current_dir / "documents" / "pic.png"
 
 # --- GENERAL SETTING ---
 PAGE_TITLE = "Digital CV | Moemen Ebdelli"
-PAGE_ICON = ":wave:"
+PAGE_ICON = ":man:"
 NAME = "Moemen Ebdelli"
 DESCRIPTION = """
 Junior Data Engineer at [RAYLYTIC]("https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjLor7w4an8AhX3RvEDHSlbCiIQFnoECA0QAQ&url=https%3A%2F%2Fwww.raylytic.com%2Fen%2F&usg=AOvVaw3bAOO6vCvUO2DWRmWPGPAM") and contributer at [NAAS](https://www.naas.ai
