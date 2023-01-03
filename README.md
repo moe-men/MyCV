@@ -5,5 +5,7 @@ style made by [magicpattern](https://www.magicpattern.design)
 
 form made by [tally](https://tally.so/)
 
-![image](https://user-images.githubusercontent.com/50549633/210446473-7799f0b0-f1de-46de-a44b-e20c4c20d499.png)
-![image](https://user-images.githubusercontent.com/50549633/210446544-a913255b-af05-4c3a-b5af-4fa9c0c9bce9.png)
+![image](https://user-images.githubusercontent.com/50549633/210446690-77818dd1-da2b-49ec-894a-7cf6b5eca478.png)
+![image](https://user-images.githubusercontent.com/50549633/210446743-a3a47945-206a-46d6-807c-1860140fe1a2.png)
+![image](https://user-images.githubusercontent.com/50549633/210446791-8926cce6-8725-44cf-baf7-15c00cbc07d0.png)
+
